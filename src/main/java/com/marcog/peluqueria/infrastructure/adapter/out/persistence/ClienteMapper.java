@@ -1,7 +1,9 @@
 package com.marcog.peluqueria.infrastructure.adapter.out.persistence;
 
 import com.marcog.peluqueria.domain.model.Cliente;
+import org.springframework.stereotype.Component;
 
+@Component
 public class ClienteMapper {
     public Cliente toDomain(ClienteEntity entity){
         if (entity == null) return null;
