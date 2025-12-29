@@ -1,4 +1,19 @@
 package com.marcog.peluqueria.domain.model;
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import java.util.UUID;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class Cliente {
+    private UUID id;
+    private String nombre;
+    private String apellidos;
+    private String telefono;
+    private String email;
+    private String notas;
 }
