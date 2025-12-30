@@ -1,6 +1,6 @@
 package com.marcog.peluqueria.infrastructure.adapter.out.persistence;
 
-import com.marcog.peluqueria.domain.model.Cliente;
+import com.marcog.peluqueria.clientes.domain.model.Cliente;
 import org.springframework.stereotype.Component;
 
 @Component

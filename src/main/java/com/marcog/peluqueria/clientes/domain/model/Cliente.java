@@ -1,4 +1,4 @@
-package com.marcog.peluqueria.domain.model;
+package com.marcog.peluqueria.clientes.domain.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

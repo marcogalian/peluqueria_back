@@ -1,6 +1,6 @@
-package com.marcog.peluqueria.domain.port;
+package com.marcog.peluqueria.clientes.domain.port.out;
 
-import com.marcog.peluqueria.domain.model.Cliente;
+import com.marcog.peluqueria.clientes.domain.model.Cliente;
 
 import java.util.Optional;
 import java.util.UUID;
