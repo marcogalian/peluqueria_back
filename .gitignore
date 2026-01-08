@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# --- SEGURIDAD Y CONFIGURACIÓN LOCAL ---
+.env
+bin/
+application-local.properties
+application-dev.properties
+# Ignorar archivos temporales de base de datos si los hubiera
+*.log

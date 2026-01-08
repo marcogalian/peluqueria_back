@@ -1,4 +1,4 @@
-package com.marcog.peluqueria.infrastructure.adapter.out.persistence;
+package com.marcog.peluqueria.clientes.adapter.out.persistence;
 
 import com.marcog.peluqueria.clientes.domain.model.Cliente;
 import org.springframework.stereotype.Component;
@@ -12,6 +12,7 @@ public class ClienteMapper {
                 .id(entity.getId())
                 .nombre(entity.getNombre())
                 .apellidos(entity.getApellidos())
+                .telefono(entity.getTelefono())
                 .email(entity.getEmail())
                 .notas(entity.getNotas())
                 .build();
