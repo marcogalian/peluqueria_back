@@ -1,4 +1,4 @@
-package com.marcog.peluqueria.clientes.adapter.in;
+package com.marcog.peluqueria.clientes.infrastructure.in;
 
 import com.marcog.peluqueria.clientes.domain.model.Cliente;
 import com.marcog.peluqueria.clientes.domain.port.in.RegistrarClienteUseCase;

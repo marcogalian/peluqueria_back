@@ -1,4 +1,4 @@
-package com.marcog.peluqueria.clientes.adapter.out.persistence;
+package com.marcog.peluqueria.clientes.infrastructure.out.persistence;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.UUID;
