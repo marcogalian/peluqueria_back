@@ -15,7 +15,6 @@ Incluye gestión de clientes, servicios y citas.
 **2 DAM**
 
 ### GitFlow
-Hemos creado la rama Develop
-
-Hola soy Juanjo,
-Escribiendo Marco en mi main
+Main  
+Develop
+Feature
