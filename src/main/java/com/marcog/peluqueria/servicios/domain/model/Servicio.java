@@ -17,5 +17,6 @@ public class Servicio {
     private String nombre;
     private String descripcion;
     private BigDecimal precio;
-    private Integer duracionMinutos; // Asi se puede saber cuanto tiempo bloquea la agenda a cada peluquer@.
+    private Integer duracionMinutos;
+    private TipoGenero genero;
 }

@@ -18,5 +18,5 @@ public class Cliente {
     private String telefono;
     private String email;
     private String notas;
-    private String genero;
+    private Genero genero;
 }
